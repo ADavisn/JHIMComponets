@@ -38,9 +38,9 @@
 
 /* Begin PBXFileReference section */
 		1CFDF3B6D5BF49F7B94D1E1C /* Pods_YJIMComponets_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YJIMComponets_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		43017E0D822655374C264A35 /* YJIMComponets.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = YJIMComponets.podspec; path = ../YJIMComponets.podspec; sourceTree = "<group>"; };
-		589BF49648591EF45A04D2A0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		5B2693FB75DE7728A7375483 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		43017E0D822655374C264A35 /* YJIMComponets.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YJIMComponets.podspec; path = ../YJIMComponets.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		589BF49648591EF45A04D2A0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		5B2693FB75DE7728A7375483 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* YJIMComponets_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YJIMComponets_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -193,7 +193,6 @@
 				FDF25A74F3FE519E77EF1889 /* Pods-YJIMComponets_Tests.debug.xcconfig */,
 				78F5DC3B31FA1894BE6A19B2 /* Pods-YJIMComponets_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -258,6 +257,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

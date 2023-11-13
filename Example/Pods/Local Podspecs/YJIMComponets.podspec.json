@@ -1,0 +1,22 @@
+{
+  "name": "YJIMComponets",
+  "version": "0.1.0",
+  "summary": "A short description of YJIMComponets.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wuyanji/YJIMComponets",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wuyanji": "wuyanji163@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wuyanji/YJIMComponets.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YJIMComponets/Classes/**/*"
+}

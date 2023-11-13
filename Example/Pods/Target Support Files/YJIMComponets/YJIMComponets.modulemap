@@ -1,0 +1,6 @@
+framework module YJIMComponets {
+  umbrella header "YJIMComponets-umbrella.h"
+
+  export *
+  module * { export * }
+}

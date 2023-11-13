@@ -1,0 +1,16 @@
+PODS:
+  - YJIMComponets (0.1.0)
+
+DEPENDENCIES:
+  - YJIMComponets (from `../`)
+
+EXTERNAL SOURCES:
+  YJIMComponets:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YJIMComponets: b9e482526bc1c9bde237f14814bf7a5578a5332d
+
+PODFILE CHECKSUM: 34a436ad0f0bd10bc7a36cc5e8b06426f37d565c
+
+COCOAPODS: 1.11.3
